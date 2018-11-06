@@ -1,3 +1,4 @@
+# This is game from book "Head first Ruby"
 def hello 
     print "What is your name: "
     @name = gets.capitalize
